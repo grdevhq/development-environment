@@ -1,19 +1,24 @@
-# GantSign EnV
+# GRDevHQ Java Development Environment - Forked from [GantSign EnV](https://github.com/gantsign/development-environment)
 
 [![Build Status](https://travis-ci.org/gantsign/development-environment.svg?branch=master)](https://travis-ci.org/gantsign/development-environment)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/gantsign/development-environment/master/LICENSE)
 
-A development environment for Java and Ansible built using Vagrant.
 
 ## About
 
-Getting your development environment setup correctly can be a time consuming and
-error prone process; getting everyone on a team to setup their environment
-correctly is even more challenging.
+The goal of this fork is to make setting up a development environment
+reliable, reproducible and also to correct some of the issues that are platform specific.
 
-The goal of this project is to make setting up a development environment
-reliable and reproducible. This project provides a generic development
-environment that you can fork to add your project specific configuration.
+For example: On a MacOS High Sierra platform some report issues with the Audio.
+
+
+
+# WIP: Variety Is The Spice Of Life!
+
+The content below will change as this repository is fully on-boarded by
+our small group, mended and amended.
+
+
 
 ## View the Website
 
